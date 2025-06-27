@@ -140,7 +140,7 @@ Enjoy testing your memory skills with this classic game! Share your high scores 
 ---
 
 ## 📪 Contact Me
-- Email: [siratutifernando@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/fernando-siratuti-503ba8301/]
-- GitHub: [https://github.com/fernando-horita-siratuti]
-- Instagram: [https://www.instagram.com/siratuti_/]
+- [Email](siratutifernando@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/fernando-siratuti-503ba8301/)
+- [GitHub](https://github.com/fernando-horita-siratuti)
+- [Instagram](https://www.instagram.com/siratuti_/)
