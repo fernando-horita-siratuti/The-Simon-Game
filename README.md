@@ -137,6 +137,10 @@ Feel free to fork this project and submit pull requests for:
 
 Enjoy testing your memory skills with this classic game! Share your high scores and challenge your friends.
 
+## 💭 Credits
+
+I would like to thank [Angela Yu](https://github.com/angelabauer) for providing this great exercise from her [course](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=LOCLZDOFFPBRCTRL). 
+
 ---
 
 ## 📪 Contact Me
