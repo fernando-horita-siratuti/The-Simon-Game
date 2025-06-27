@@ -33,12 +33,12 @@ The game features four colorful buttons:
 
 ## 🛠️ Technologies Used
 
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white): Structure and layout
-- **CSS3**: Styling, animations, and responsive design
-- **JavaScript**: Game logic and interactivity
-- **jQuery**: DOM manipulation and event handling
-- **Google Fonts**: Retro "Press Start 2P" font for authentic gaming feel
-
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5**: Structure and layout
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS3**: Styling, animations, and responsive design
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**: Game logic and interactivity
+- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) **jQuery**: DOM manipulation and event handling
+- ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat&logo=google-fonts&logoColor=white) **Google Fonts**: Retro "Press Start 2P" font for authentic gaming feel
+  
 ## 📁 File Structure
 
 ```
