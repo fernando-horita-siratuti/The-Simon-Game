@@ -33,7 +33,7 @@ The game features four colorful buttons:
 
 ## 🛠️ Technologies Used
 
-- **![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)**: Structure and layout
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white): Structure and layout
 - **CSS3**: Styling, animations, and responsive design
 - **JavaScript**: Game logic and interactivity
 - **jQuery**: DOM manipulation and event handling
