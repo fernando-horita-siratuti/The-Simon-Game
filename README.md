@@ -113,29 +113,12 @@ You can easily customize:
 - **Any Key**: Start the game / Restart after game over
 - **Mouse Click**: Select colored buttons during gameplay
 
-## 🏆 Challenge Yourself
-
-- How many levels can you complete?
-- Can you beat your high score?
-- Try playing with friends and see who lasts the longest!
-
 ## 📱 Browser Compatibility
 
 - ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white) ✅
 - ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=firefox&logoColor=white) ✅
 - ![Safari](https://img.shields.io/badge/Safari-000000?style=flat&logo=safari&logoColor=white) ✅
 - ![Edge](https://img.shields.io/badge/Edge-0078D4?style=flat&logo=microsoft-edge&logoColor=white) ✅
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for:
-- Bug fixes
-- New features
-- Performance improvements
-- Better styling
-## 🎉 Have Fun!
-
-Enjoy testing your memory skills with this classic game! Share your high scores and challenge your friends.
 
 ## 💭 Credits
 
