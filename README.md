@@ -67,7 +67,7 @@ Make sure to include these audio files in a `sounds/` directory:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/simon-game.git
+   git clone https://github.com/fernando-horita-siratuti/simon-game.git
    ```
 
 2. **Navigate to the project directory**
