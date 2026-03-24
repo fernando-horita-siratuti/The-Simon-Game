@@ -146,7 +146,7 @@ I would like to thank [Angela Yu](https://github.com/angelabauer) for providing 
 [github-badge]: https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white
 [instagram-badge]: https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
 
-[gmail-autor2]: mailto:siratutifernando@gmail.com
-[linkedin-autor2]: https://www.linkedin.com/in/fernando-siratuti-503ba8301/
-[github-autor2]: https://github.com/fernando-horita-siratuti
-[instagram-autor2]: https://www.instagram.com/siratuti_/
+[gmail-autor]: mailto:siratutifernando@gmail.com
+[linkedin-autor]: https://www.linkedin.com/in/fernando-horita-siratuti/
+[github-autor]: https://github.com/fernando-horita-siratuti
+[instagram-autor]: https://www.instagram.com/siratuti_/
